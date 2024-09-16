@@ -2,6 +2,7 @@
 <p> This is a calorie counter project </p>
 <ul>Tools Used</ul>
 <li>Python</li>
+<li>Django</li>
 <li>Chart.js</li>
 <li>Html</li>
 <li>JS</li>
